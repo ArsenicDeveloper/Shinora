@@ -1070,5 +1070,3 @@ function GlobalStyles() {
     `}</style>
   );
 }
-ENDOFFILE
-echo "✓ Done"
